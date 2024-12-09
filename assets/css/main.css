@@ -1209,6 +1209,11 @@ html {
   margin-right: auto;
 }
 
+.my-8 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 .flex {
   display: flex;
 }
@@ -1245,6 +1250,10 @@ html {
   width: 100%;
 }
 
+.w-60 {
+  width: 15rem;
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -1259,6 +1268,10 @@ html {
 
 .justify-center {
   justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
 }
 
 .gap-8 {
